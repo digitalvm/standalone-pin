@@ -1,0 +1,4 @@
+standalone-pin
+==============
+
+Pin plugin
